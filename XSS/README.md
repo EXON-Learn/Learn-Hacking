@@ -14,7 +14,7 @@ XSS(Cross-site Scripting)는 웹 상에서 가장 기초적인 취약점 공격 
 ### <script>코드</script>
 가장 기본적인 XSS 코드이다. 기본적이라 거의 모든 사이트에서 막아놓는다.
 
-### <img src="#" onerror="코드">
+### \<img src="#" onerror="코드">
 이미지 태그를 이용한 XSS 기법입니다.
 
 ## 사용 방법
